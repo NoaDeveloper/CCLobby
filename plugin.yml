@@ -1,0 +1,8 @@
+main : fr.nozkay.Main
+version: 0.1
+name: CCLobby
+commands:
+  setgrade:
+    description: Donner un grade à un joueur
+  openserv:
+    description: Allumer un serveur UHC
